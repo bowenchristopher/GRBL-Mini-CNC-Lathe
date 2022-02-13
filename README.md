@@ -16,9 +16,45 @@ All models are made to be machined on a 3 axis CNC in a single setup,
 Included setups in the F3d files are for a Nomad 3 CNC using a 1/8 endmill milling Corian or Delrin 
 <table>
   <tr>
+    <th> Part Number </th> 
     <th>Part Name</th>
     <th>Link</th>
   </tr>
+  <tr>
+    <td> 1 </td> 
+    <td> Dove Tail </td> 
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/Dove_Tail_For_Main_Plate.f3d </td> 
+  </tr> 
+  <tr> 
+    <td> 2 </td> 
+    <td> Main Plate </td> 
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/Main_Plate.f3d </td> 
+  </tr> 
+  <tr> 
+    <td> 3 </td> 
+    <td> Bar Clamp </td>
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/Bar_Clamp.f3d </td> 
+  </tr> 
+  <tr> 
+    <td> 4 </td> 
+    <td> Mounting Plate </td> 
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/Mounting_Plate.f3d </td> 
+  </tr> 
+  <tr> 
+    <td> 5 </td> 
+    <td> X Axis Bracket </td> 
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/X_Axis_Bracket.f3d </td> 
+  </tr> 
+  <tr> 
+    <td> 6 </td> 
+    <td> Z Axis Bracket </td> 
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/Z_Axis_Bracket.f3d </td> 
+  </tr> 
+  <tr> 
+    <td> 7 </td> 
+    <td> Z Axis Adaptor for 5:1 Nema 17 motor </td> 
+    <td> https://github.com/bowenchristopher/GRBL-Mini-CNC-Lathe/blob/main/Z_Axis_Nema17_Adaptor.f3d </td> 
+  </tr> 
 </table>
 
 # Part List
