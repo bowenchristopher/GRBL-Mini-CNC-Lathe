@@ -3,7 +3,6 @@ Part list and Instructions to convert a TAIG L1015 MICRO LATHE II into a GRBL co
 
 ![ezgif-2-576722ba00](https://user-images.githubusercontent.com/41913546/153733846-d33d92b0-eded-4820-ba22-c7621c50b2a4.gif)
 
-
 This project was inspired by Ed Fraizer's Post on GRABCAD, 
 <br> 
 A link to the original post can be found <a href="https://grabcad.com/library/taig-micro-lathe-ii-cnc-conversion-1">here</a>
@@ -198,6 +197,7 @@ In process
 </table>
 
 # Get Started with the Mini CNC Lathe
+![IMG_0364](https://user-images.githubusercontent.com/41913546/153736142-b2daa419-4b97-4c72-87cd-f94900b01ae1.JPG)
 <table>
    <tr>
     <th>File </th>
