@@ -16,7 +16,8 @@ Don't expect to take large passes .003 is a healthy cut. Backlash in the Z-axis 
 # Components to Manufacture
 All models are made to be machined on a 3 axis CNC in a single setup, 
 <br> 
-Included setups in the F3d files are for a Nomad 3 CNC using a 1/8 endmill milling Corian or Delrin 
+Included setups in the F3d files are for a Nomad 3 CNC using a 1/8 endmill milling Corian or Delrin
+<br> 
 More information on the parts can be found in the individual part files
 <table>
   <tr>
