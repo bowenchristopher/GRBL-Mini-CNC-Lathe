@@ -219,6 +219,6 @@ In process
 </table> 
 
 # Future Improvements
-In no particular order. A true Lead Screw on the X-Axis and Z-Axis could make the lathe more repeatable.
+In no particular order. A true Lead Screw on the X-axis and Z-axis could make the lathe more repeatable.
 A chip cover over the ways would prolong the life of the machine. Adding a larger BLDC motor or Servo motor could make a more useful mini-lathe. 
-A higher gear ratio on the Z axis Stepper motor might reduce some of the directional backlash.
+A higher gear ratio on the Z-axis stepper motor might reduce some of the directional backlash.
