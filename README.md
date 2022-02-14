@@ -11,7 +11,7 @@ All CAD models and the original idea are credited to Ed Fraizer
 
 # Machine Review
 This is a great mini CNC lathe for the cost but, it has its limitations.
-Don't expect to take large passes .003 is a healthy cut. Backlash in the Z-axis means cutting passes can only be taken in one direction. With a 5:1 reduction on the Z-axis stepper motor, the Z-axis will stall before the spindle does. After some testing, the machine can cut brass and aluminum well, ferrous metals are tougher but, it does cut.  Building the lathe was a great project and I couldnt buy a better machine for the ~650.00 Price tag. 
+Don't expect to take large passes .003 is a healthy cut. Backlash in the Z-axis means cutting passes can only be taken in one direction. With a 5:1 reduction on the Z-axis stepper motor, the Z-axis will stall before the spindle does. After some testing, the machine can cut brass and aluminum well, ferrous metals are tougher but, it does cut.  Building the lathe was a great project and I couldn't buy a better machine for the ~650.00 Price tag. 
 
 # Components to Manufacture
 All models are made to be machined on a 3 axis CNC in a single setup, 
