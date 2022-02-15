@@ -9,7 +9,8 @@ This project was inspired by Ed Fraizer's Post on GRABCAD,
 A link to the original post can be found <a href="https://grabcad.com/library/taig-micro-lathe-ii-cnc-conversion-1">here</a>
 <br>
 All CAD models and the original idea are credited to Ed Fraizer
-That being said all of the models in this post have been revised to improve machinability or fix clearance issues, 
+<br>
+That being said all, of the models in this build, have been revised to improve machinability or to fix clearance issues caused during assembly.
 
 # Machine Review
 This is a great mini CNC lathe for the cost but, it has its limitations.
