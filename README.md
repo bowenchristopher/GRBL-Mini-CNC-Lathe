@@ -3,11 +3,13 @@ Part list and Instructions to convert a TAIG L1015 MICRO LATHE II into a GRBL co
 
 ![ezgif-2-576722ba00](https://user-images.githubusercontent.com/41913546/153733846-d33d92b0-eded-4820-ba22-c7621c50b2a4.gif)
 
+# Project Overview
 This project was inspired by Ed Fraizer's Post on GRABCAD, 
 <br> 
 A link to the original post can be found <a href="https://grabcad.com/library/taig-micro-lathe-ii-cnc-conversion-1">here</a>
 <br>
 All CAD models and the original idea are credited to Ed Fraizer
+That being said all of the models in this post have been revised to improve machinability or fix clearance issues, 
 
 # Machine Review
 This is a great mini CNC lathe for the cost but, it has its limitations.
